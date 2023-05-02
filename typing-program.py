@@ -15,7 +15,7 @@ def game_start():
                     "Math is really good",
                     "Some people are really weird."]
 
-    sentenceLen = int(len(sentenceList))
+    sentenceLen = int(len(sentenceList))  # Length of the list
 
     i = 0   # For indexing
 

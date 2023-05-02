@@ -65,6 +65,7 @@ def user_options():
     # Exception handling for non-integer values
     except ValueError:
         print('Invalid input, try again.\n')
+        return user_options()
 
     # If user wants to see the rules
     if userInput == 1:

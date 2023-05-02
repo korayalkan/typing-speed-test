@@ -3,7 +3,7 @@ import time
 
 # Greetings to user
 print("\t\t\tWelcome to K-Type App!\n"
-      "\tTest your typing speed with 10 words!")
+      "\tTest your typing speed!")
 
 # Game function starts here
 def game_start():
